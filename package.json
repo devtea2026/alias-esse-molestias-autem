@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/alias-esse-molestias-autem",
-  "version": "1.4.48",
+  "version": "1.4.49",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -608,5 +608,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/alias-esse-molestias-autem/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
